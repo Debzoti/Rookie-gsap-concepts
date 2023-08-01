@@ -1,0 +1,32 @@
+*{
+   margin: 0 0 0 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+html,body{
+   height: 100%;
+   width:100%;
+}
+#pg1{
+   height: 100%;
+   width:100%;
+   background-color: skyblue;
+}
+#pg1 #box{
+   height: 300px;
+   width:300px;
+   background-color: crimson;
+}
+h1{
+   color: darkred;
+   font-size: 60px;
+}
+h2{
+   color: blueviolet;
+   font-size: 30px;
+}
+h3{
+   color:green;
+   font-size: 20px;
+   
+}
