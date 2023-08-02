@@ -1,5 +1,5 @@
 
-/*gsap.to("#box",{
+gsap.to("#box",{
    x:500,
    y:200,
    duration:2,
@@ -53,6 +53,6 @@ gsap.to("h3", {
    delay: 3,
    duration: 2,
    
-});*/
+});
 
 
